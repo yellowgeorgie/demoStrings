@@ -20,3 +20,5 @@ function reset() {
 }
 
 resetButton.addEventListener('click', reset);
+
+// Developer's note - instead of creating 5 console logs, opted to convert all strings within the textarea box. Additional reset button to clear the textarea.
